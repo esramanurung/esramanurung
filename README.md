@@ -15,7 +15,8 @@ I'm just person who interests in technology 👌 You can contact me if you wanna
 ### CI
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![image](https://user-images.githubusercontent.com/47623527/171349393-22901799-0a21-48ca-b90a-3de42314dcf0.png)
+### Cloud ![image](https://user-images.githubusercontent.com/47623527/171349393-22901799-0a21-48ca-b90a-3de42314dcf0.png)
+!.[Netlify].(https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ### My Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
