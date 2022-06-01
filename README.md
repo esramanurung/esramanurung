@@ -1,12 +1,12 @@
 # Hi there 👋 , I'm Esra Delima Manurung!
-Currently I am open to any opportunity especially in IT as a BackEnd Engineer and Software Engineer. 
-Currently working as BackEnd Engineer,I love learn new thing in programming such as Javascript,Java,Golang.  
+Currently working as BackEnd Engineer,I love learn new thing in programming such as Javascript,Java,Golang,C#, etc.  
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on BackEnd Engineer </br>
     - 🌱 I’m currently learning Golang</br>
 </details>
-My name is Esra Delima Manurung, I'm just person who interests in technology 👌 You can contact me if you wanna be my friend or need something 🍒
+
+I'm just person who interests in technology 👌 You can contact me if you wanna be my friend or need something 🍒
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esradelimamanurung1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esra-delima-manurung-a0763117b/)
